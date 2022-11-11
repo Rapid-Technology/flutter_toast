@@ -1,4 +1,4 @@
-# flutter_toast
+# Flutter Toast
 
 A new Flutter project.
 
